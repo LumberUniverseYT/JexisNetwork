@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<param>
+	<web>
+		<website>www.hawkservers.co</website>
+	</web>
+	
+	<store>
+		<storeurl>www.hawkservers.co/store</storeurl>
+	</store>
+	
+	<teamspeak>
+		<tsip>94.23.180.163</tsip>
+	</teamspeak>
+	
+	<topbar>
+		<servername>Tee Load</servername>;
+	</topbar>
+	
+	<tb>
+		<slogan>A very nice loading screen</slogan>
+	</tb>
+	
+	<gamemode_dis>
+		<cnt>0</cnt>
+	</gamemode_dis>
+	
+	<slots_dis>
+		<cnt>0</cnt>
+	</slots_dis>
+	
+	<map_dis>
+		<cnt>0</cnt>
+	</map_dis>
+	
+	<website_dis>
+		<cnt>0</cnt>
+	</website_dis>
+	
+	<store_dis>
+		<cnt>0</cnt>
+	</store_dis>
+	
+	<ts_dis>
+		<cnt>0</cnt>
+	</ts_dis>
+	
+	<disable_oi>
+		<dis>0</dis>
+	</disable_oi>
+	
+	<disable_si>
+		<dis>0</dis>
+	</disable_si>
+	
+	<disable_load>
+		<dis>0</dis>
+	</disable_load>
+	
+	<bg1>
+		<bg>inc/bg/bg1.jpg</bg>
+	</bg1>
+	
+	<bg2>
+		<bg>inc/bg/bg2.jpg</bg>
+	</bg2>
+	
+	<bg3>
+		<bg>inc/bg/bg3.jpg</bg>
+	</bg3>
+	
+	<cycletime>
+		<bg>3</bg>
+	</cycletime>
+	
+	
+	
+	<ct1>
+		<ct>Type !MOTD in-game to view the rules.</ct>
+	</ct1>
+	
+	<ct2>
+		<ct>Do !steam In-Game to get $30,000!</ct>
+	</ct2>
+	
+	<ct3>
+		<ct>Use '@' to call an Admin in game!</ct>
+	</ct3>
+	
+	<cttime>
+		<ct>3</ct>
+	</cttime>
+	
+	<disable_ct>
+		<dis>0</dis>
+	</disable_ct>
+	
+	<dis_music>
+		<dis>true</dis>
+	</dis_music>
+	
+	<youtube>
+		<vol>5</vol>
+	</youtube>
+	
+	<music>
+		<name>KSI - Two Birds One Stone</name>
+	</music>
+	
+	<youtube_song>
+		<song>lmpJ_cKHli4</song>
+	</youtube_song>
+	
+	<music2>
+		<name>KSI - Little Boy</name>
+	</music2>
+	
+	<youtube_song2>
+		<song>YQKEJyDiIZc</song>
+	</youtube_song2>
+	
+	<music3>
+		<name>KSI - Adams Apple</name>
+	</music3>
+	
+	<youtube_song3>
+		<song>zaHvon_fZp8</song>
+	</youtube_song3>
+	
+	<cbox1>
+		<cbox>Don't RDM.</cbox>
+	</cbox1>
+	
+	<cbox2>
+		<cbox>Use your common sense.</cbox>
+	</cbox2>
+	
+	<cbox3>
+		<cbox>Don't ignore the !motd Rules.</cbox>
+	</cbox3>
+	
+	<cbox4>
+		<cbox>Always report staff abuse on our forums.</cbox>
+	</cbox4>
+	
+	<cbox5>
+		<cbox>Don't disrespect any player including staff.</cbox>
+	</cbox5>
+	
+	<cbox>
+		<cycle>3</cycle>
+	</cbox>
+	
+	<cboxh>
+		<cbox>Rules</cbox>
+	</cboxh>
+	
+	<dis_rfsection>
+		<dis>0</dis>
+	</dis_rfsection>
+	
+	<disabout>
+		<dis>0</dis>
+	</disabout>
+	
+	<about>
+		<info>Our Garry's Mod Server has been successfully running for the passed 2 years. We have custom addons and regular donations to help pay for our server.</info>
+	</about>
+	
+	
+	<sid1>
+		<stid>76561198210577821</stid>
+	</sid1>
+	
+	<sid2>
+		<stid>76561198102770972</stid>
+	</sid2>
+	
+	<sid3>
+		<stid>76561198107877078</stid>
+	</sid3>
+	
+	<sid4>
+		<stid>76561198128018315</stid>
+	</sid4>
+	
+	<sid5>
+		<stid>76561197960279927</stid>
+	</sid5>
+	
+	<sid6>
+		<stid>76561198163770205</stid>
+	</sid6>
+	
+	
+	<rank1>
+		<rank>Owner</rank>
+	</rank1>
+	
+	<rank2>
+		<rank>Owners Bro</rank>
+	</rank2>
+	
+	<rank3>
+		<rank>Super Admin</rank>
+	</rank3>
+	
+	<rank4>
+		<rank>Super Admin</rank>
+	</rank4>
+	
+	<rank5>
+		<rank>Admin</rank>
+	</rank5>
+	
+	<rank6>
+		<rank>Mod</rank>
+	</rank6>
+	
+	<staff>
+		<dis>0</dis>
+	</staff>
+	
+	<st1>
+		<dis>0</dis>
+	</st1>
+	
+	<st2>
+		<dis>0</dis>
+	</st2>
+	
+	<st3>
+		<dis>0</dis>
+	</st3>
+	
+	<st4>
+		<dis>0</dis>
+	</st4>
+	
+	<st5>
+		<dis>0</dis>
+	</st5>
+	
+	<st6>
+		<dis>0</dis>
+	</st6>
+	
+	<shufflem>
+		<music>true</music>
+	</shufflem>
+	
+</param>
